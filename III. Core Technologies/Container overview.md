@@ -11,7 +11,7 @@ Spring ApplicationContext 接口提供了几种即装即用的实现方式。在
 
 Figure 6.1. The Spring IoC container
 
-![](http://docs.spring.io/spring/docs/current/spring-framework-reference/htmlsingle/images/container-magic.png)
+![](https://docs.spring.io/spring/docs/4.3.0.BUILD-SNAPSHOT/spring-framework-reference/htmlsingle/images/container-magic.png)
 
 ### 配置元数据
 
